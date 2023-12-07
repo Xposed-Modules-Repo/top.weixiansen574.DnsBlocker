@@ -25,4 +25,4 @@ https://github.com/weixiansen574/DnsBlocker
 
 ## 截图
 
-![Screenshot_2023-12-06-18-25-59-151_top.weixiansen574.DnsBlocker.jpg](Screenshot_2023-12-06-18-25-59-151_top.weixiansen574.DnsBlocker.jpg)
+![Screenshot_2023-12-06-18-25-59-151_top.weixiansen574.DnsBlocker.jpg](https://github.com/Xposed-Modules-Repo/top.weixiansen574.DnsBlocker/blob/main/Screenshot_2023-12-06-18-25-59-151_top.weixiansen574.DnsBlocker.jpg)
